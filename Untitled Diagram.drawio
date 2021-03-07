@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T07:43:39.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.4" etag="YZhncyQl-bgG_vd0BuQl" type="github"><diagram id="NTRb6LynuOVtb8wq7M6x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-07T07:53:15.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="aUoeRUTn4T-tyTbJgibJ" version="14.4.4" type="github">
+  <diagram id="NTRb6LynuOVtb8wq7M6x" name="Page-1">
+    <mxGraphModel dx="1405" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-1" value="&lt;br&gt;&lt;br&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-4" value="&lt;font color=&quot;#ffffff&quot;&gt;changeMode&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-6" value="&lt;font color=&quot;#ffffff&quot;&gt;setMode&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-7" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(96 , 169 , 23)&quot;&gt;commonAction&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fontColor=#ffffff;fillColor=#60A917;" vertex="1" parent="1">
+          <mxGeometry x="350" y="470" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-8" value="pushAction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-9" value="updateSyncStatus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPjrpy-a-t6D2CHBjiBg-12" value="saveSyncStatusTolLocal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
